@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @RoboCoderX
+- 👋 Hi, I’m @Roboz1106
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java and C++
 - 💞️ I’m looking to collaborate on MC,Web Developing and Coding stuff
-- 📫 How to reach me Discord:- RoboCoderX
+- 📫 How to reach me Discord:- robozyt
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am very smart
-- ✉ Contact: Discord - RoboCoderX
+- ✉ Contact: Discord - robozyt
 - 💲 Price: Depends
